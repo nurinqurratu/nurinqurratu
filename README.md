@@ -22,6 +22,7 @@
 ---
 
 ## 📫 Connect with Me  
-- GitHub: [github.com/your-username](https://github.com/nurinqurratu)  
-- LinkedIn: [www.linkedin.com/in/nurin-qurratu-aini-razali]  
-- Email: [nurinqurratua@gmail.com]  
+- GitHub: [github.com/nurinqurratu](https://github.com/nurinqurratu)  
+- LinkedIn: [linkedin.com/in/nurin-qurratu-aini-razali](https://www.linkedin.com/in/nurin-qurratu-aini-razali)  
+- Email: [nurinqurratua@gmail.com](mailto:nurinqurratua@gmail.com)  
+
