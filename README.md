@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Nurin  
 
-<!--
-**nurinqurratu/nurinqurratu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying **Computer Science**  
+🌱 Learning about Git, GitHub, and software development  
+💻 Interested in coding, problem-solving, and exploring tech  
+✨ Passionate about continuous learning and self-improvement  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- Programming: Python, Java, C++
+- Tools: Git, GitHub, VS Code  
+- Interests: Web development, data analysis, and algorithms  
+
+---
+
+## 📌 What I’m Working On  
+- Building my GitHub portfolio  
+- Exploring open-source projects  
+- Practicing coding challenges  
+
+---
+
+## 📫 Connect with Me  
+- GitHub: [github.com/your-username](https://github.com/nurinqurratu)  
+- LinkedIn: [www.linkedin.com/in/nurin-qurratu-aini-razali]  
+- Email: [nurinqurratua@gmail.com]  
